@@ -1,5 +1,6 @@
 import React from "react";
-import { ToDoList } from "./ToDoList";
+import { ToDoList } from "./ToDoList.jsx";
+
 
 
 const Home = () => {
